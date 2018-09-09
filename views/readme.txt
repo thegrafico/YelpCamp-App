@@ -1,0 +1,1 @@
+this folder is to load our web page in format EJS (HTML and CSS).
