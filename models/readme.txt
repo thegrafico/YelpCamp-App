@@ -1,0 +1,1 @@
+En esta carpeta se van a guardar las estructuras de los archivos para luego ser requira. 
