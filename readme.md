@@ -8,8 +8,13 @@ This website is made with Node Js, Express, MongoDB and other npm packages that 
 
 note:
   if you want to see the app working, then you need
+
    1-) a web server: LAMP or WAMP.
+
    2-) Mongo DB install. Is where data storage
+
    3-) nodeJs install. Is where app is loaded
+
    4-) in this file, run in the terminal: node app.js
+
    5-) Open your web browser and search: localhost:2000/  
